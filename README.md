@@ -38,16 +38,16 @@ A full-stack personal finance management dashboard built using **Next.js 14**, *
 
 ---
 
-## 🔒 Models (Prisma)
+## Models (Prisma)
 
 - **User**
 - **Account**
 - **Transaction**
 ---
 
-Updates planned:
-- [ ] **Recurring transactions**
-- [ ] **Budget limits and alerts**
-- [ ] **Pagination for transaction history**
-- [ ] **Visual insights (Pie/Bar charts)**
-- [ ] **Rate limiting for spam protection**
+## Updates planned:
+-  **Recurring transactions**
+-  **Budget limits and alerts**
+-  **Pagination for transaction history**
+-  **Visual insights (Pie/Bar charts)**
+-  **Rate limiting for spam protection**
