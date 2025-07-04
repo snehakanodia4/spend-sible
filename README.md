@@ -7,24 +7,24 @@ A full-stack personal finance management dashboard built using **Next.js 14**, *
 
 ## Features
 
- ✅ **Authentication** via Clerk
- ✅ **Add, edit & delete transactions** (income/expense)
- ✅ **Create and manage accounts**
- ✅ **Default account toggling**
- ✅ **Real-time balance updates**
- ✅ **Form validation** using Zod
- ✅ **Drawer UI components**
- ✅ **Server actions** for data mutations
- ✅ **Responsive design** with Tailwind
- ✅ **Toasts and error handling** with Sonner
- ✅ **Dynamic routing** & clean URL structure
- ✅ **Form state handling** with React Hook Form
- ✅ **Uses custom hook `useFetch()`** for client-side data mutation
- ✅ **Secure database access** using Prisma with Clerk user mapping
+ - **Authentication** via Clerk
+ - **Add, edit & delete transactions** (income/expense)
+ - **Create and manage accounts**
+ - **Default account toggling**
+ - **Real-time balance updates**
+ - **Form validation** using Zod
+ - **Drawer UI components**
+ - **Server actions** for data mutations
+ - **Responsive design** with Tailwind
+ - **Toasts and error handling** with Sonner
+ - **Dynamic routing** & clean URL structure
+ - **Form state handling** with React Hook Form
+ - **Uses custom hook `useFetch()`** for client-side data mutation
+ - **Secure database access** using Prisma with Clerk user mapping
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Category       | Tech Used                      |
 |----------------|--------------------------------|
