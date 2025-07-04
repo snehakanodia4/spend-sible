@@ -89,7 +89,7 @@ const AddTransactionForm = ({accounts, categories, editMode=false, initialData=n
 
     // };
     return (
-    <form onSubmit={handleSubmit(onSubmit)} className="space-y-6" >\865 `   
+    <form onSubmit={handleSubmit(onSubmit)} className="space-y-6" > 
         {/* AI SCAN */}
        {  !editMode && <RecScanner  onScanComplete={handleScanComplete} />}
         {/* Type */}
