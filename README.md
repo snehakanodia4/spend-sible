@@ -43,9 +43,6 @@ A full-stack personal finance management dashboard built using **Next.js 14**, *
 - **User**
 - **Account**
 - **Transaction**
-- **Budget** *(schema added, implementation pending)*
-- Enums for `TransactionType`, `AccountType`, `RecurringInterval`, `TransactionStatus`
-
 ---
 
 Updates planned:
