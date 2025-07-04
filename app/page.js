@@ -36,7 +36,7 @@ export default function Home() {
             Everything You Need to Track Your Expenses
           </h2>
           <h3 className="text-xl text-[rgba(107,114,128)] font-medium text-center mb-6">
-            {`Here's What All You Can Do`}{" "}
+            Here&apos;s What All You Can Do{" "}
           </h3>
           <div className=" grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {featuresData.map((item, index) => (

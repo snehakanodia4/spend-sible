@@ -42,7 +42,7 @@ const Hero = () => {
         <div>
             <Link href="/dashboard">
             <Button size="lg"  className="h-12 w-auto px-8 border border-gray-700 hover:bg-gradient-to-br from-blue-400 to-purple-400 " variant="outline">
-             {` Let's Get You Started!`}
+             Let&apos;s Get You Started!
             </Button>
             </Link>
         </div>
