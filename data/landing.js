@@ -9,21 +9,19 @@ import {
 
 // Stats Data
 export const statsData = [
-  { 
+  {
     value: "50K+",
     label: "Active Users",
   },
   {
-   
     value: "$2B+",
     label: "Transactions Tracked",
   },
   {
-   
     value: "99.9%",
     label: "Uptime",
   },
-  { 
+  {
     value: "4.9/5",
     label: "User Rating",
   },
@@ -92,21 +90,21 @@ export const testimonialsData = [
   {
     name: "Sarah Johnson",
     role: "Small Business Owner",
-    image: "https://randomuser.me/api/portraits/women/75.jpg",
+    image: "/images/sarah.jpg",
     quote:
       "Spend-sible helped me manage my business finances. The AI insights really helped me identify cost-saving opportunities I never knew existed.",
   },
   {
     name: "Michael Chen",
     role: "Freelancer",
-    image: "https://randomuser.me/api/portraits/men/75.jpg",
+    image: "/images/michael.jpg",
     quote:
       "The receipt scanning feature saves me hours each month. Now I can focus on my work instead of manual data entry and expense tracking.",
   },
   {
     name: "Emily Rodriguez",
     role: "Financial Advisor",
-    image: "https://randomuser.me/api/portraits/women/74.jpg",
+    image: "/images/emily.jpg",
     quote:
       "I recommend Spend-sible to all my clients. The multi-currency support and detailed analytics make it perfect for international investors.",
   },
